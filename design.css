@@ -1,0 +1,18 @@
+p{
+  font-style: monaco;
+  font-family: Monaco;
+  font-size: 16px;
+}
+
+h1{
+  color: red;
+}
+
+.p1{
+  color: blue;
+  font-size: 16px;
+}
+
+.botaosenha{
+  padding-left: 10px;
+}
